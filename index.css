@@ -9,7 +9,7 @@ body {
 /* Header */
 .hero {
     background-color: #1e293b;
-    color: white;
+    color: rgb(155, 21, 21);
     text-align: center;
     padding: 60px 20px;
 }
